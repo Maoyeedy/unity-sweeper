@@ -1,0 +1,21 @@
+{
+  "name": "com.notion-theory.unity-sweeper",
+  "version": "1.0.0",
+  "displayName": "Unity Sweeper",
+  "description": "A utility that detects unused assets in your Unity project, removes them, and creates backup packages for future reference.",
+  "unity": "2019.4",
+  "keywords": [
+    "editor",
+    "utility",
+    "asset management",
+    "cleanup"
+  ],
+  "author": {
+    "name": "Notion Theory",
+    "url": "https://github.com/notiontheory"
+  },
+  "documentationUrl": "https://github.com/notiontheory/unity-sweeper",
+  "license": "MIT",
+  "dependencies": {},
+  "samples": []
+}
